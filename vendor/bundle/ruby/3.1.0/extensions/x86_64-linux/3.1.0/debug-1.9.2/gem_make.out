@@ -1,0 +1,19 @@
+current directory: /home/essohanam/MICROVERSE/ODIN PROJECT/stridecatcher/vendor/bundle/ruby/3.1.0/gems/debug-1.9.2/ext/debug
+/home/essohanam/.rvm/rubies/ruby-3.1.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/essohanam/MICROVERSE/ODIN PROJECT/stridecatcher/vendor/bundle/ruby/3.1.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240603-211729-zt0vnn sitelibdir\=./.gem.20240603-211729-zt0vnn clean
+
+current directory: /home/essohanam/MICROVERSE/ODIN PROJECT/stridecatcher/vendor/bundle/ruby/3.1.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240603-211729-zt0vnn sitelibdir\=./.gem.20240603-211729-zt0vnn
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/essohanam/MICROVERSE/ODIN PROJECT/stridecatcher/vendor/bundle/ruby/3.1.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240603-211729-zt0vnn sitelibdir\=./.gem.20240603-211729-zt0vnn install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20240603-211729-zt0vnn/debug
+
+current directory: /home/essohanam/MICROVERSE/ODIN PROJECT/stridecatcher/vendor/bundle/ruby/3.1.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20240603-211729-zt0vnn sitelibdir\=./.gem.20240603-211729-zt0vnn clean

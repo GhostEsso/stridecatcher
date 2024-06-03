@@ -1,0 +1,30 @@
+current directory: /home/essohanam/MICROVERSE/ODIN PROJECT/stridecatcher/vendor/bundle/ruby/3.1.0/gems/psych-5.1.2/ext/psych
+/home/essohanam/.rvm/rubies/ruby-3.1.2/bin/ruby extconf.rb
+checking for yaml.h... yes
+checking for yaml_get_version() in -lyaml... yes
+creating Makefile
+
+current directory: /home/essohanam/MICROVERSE/ODIN PROJECT/stridecatcher/vendor/bundle/ruby/3.1.0/gems/psych-5.1.2/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20240603-211729-257zxd sitelibdir\=./.gem.20240603-211729-257zxd clean
+cd libyaml && make clean
+/bin/sh: 1: cd: can't cd to libyaml
+make: [Makefile:281 : clean-so] Erreur 2 (ignorée)
+
+current directory: /home/essohanam/MICROVERSE/ODIN PROJECT/stridecatcher/vendor/bundle/ruby/3.1.0/gems/psych-5.1.2/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20240603-211729-257zxd sitelibdir\=./.gem.20240603-211729-257zxd
+compiling psych.c
+compiling psych_emitter.c
+compiling psych_parser.c
+compiling psych_to_ruby.c
+compiling psych_yaml_tree.c
+linking shared-object psych.so
+
+current directory: /home/essohanam/MICROVERSE/ODIN PROJECT/stridecatcher/vendor/bundle/ruby/3.1.0/gems/psych-5.1.2/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20240603-211729-257zxd sitelibdir\=./.gem.20240603-211729-257zxd install
+/usr/bin/install -c -m 0755 psych.so ./.gem.20240603-211729-257zxd
+
+current directory: /home/essohanam/MICROVERSE/ODIN PROJECT/stridecatcher/vendor/bundle/ruby/3.1.0/gems/psych-5.1.2/ext/psych
+make DESTDIR\= sitearchdir\=./.gem.20240603-211729-257zxd sitelibdir\=./.gem.20240603-211729-257zxd clean
+cd libyaml && make clean
+/bin/sh: 1: cd: can't cd to libyaml
+make: [Makefile:281 : clean-so] Erreur 2 (ignorée)

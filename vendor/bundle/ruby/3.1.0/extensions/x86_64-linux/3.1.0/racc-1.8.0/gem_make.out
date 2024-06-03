@@ -1,0 +1,18 @@
+current directory: /home/essohanam/MICROVERSE/ODIN PROJECT/stridecatcher/vendor/bundle/ruby/3.1.0/gems/racc-1.8.0/ext/racc/cparse
+/home/essohanam/.rvm/rubies/ruby-3.1.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/essohanam/MICROVERSE/ODIN PROJECT/stridecatcher/vendor/bundle/ruby/3.1.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240603-211729-5dok0 sitelibdir\=./.gem.20240603-211729-5dok0 clean
+
+current directory: /home/essohanam/MICROVERSE/ODIN PROJECT/stridecatcher/vendor/bundle/ruby/3.1.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240603-211729-5dok0 sitelibdir\=./.gem.20240603-211729-5dok0
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/essohanam/MICROVERSE/ODIN PROJECT/stridecatcher/vendor/bundle/ruby/3.1.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240603-211729-5dok0 sitelibdir\=./.gem.20240603-211729-5dok0 install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20240603-211729-5dok0/racc
+
+current directory: /home/essohanam/MICROVERSE/ODIN PROJECT/stridecatcher/vendor/bundle/ruby/3.1.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240603-211729-5dok0 sitelibdir\=./.gem.20240603-211729-5dok0 clean
